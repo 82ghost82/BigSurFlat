@@ -11,4 +11,4 @@ All .icns contain 2 images: one at 72 ppi (1x, UIScale=1), one at 144 ppi (2x, U
 
 Preview:
 
-![alt text](https://i.ibb.co/7vd1cvB/Big-Sur-Flat-preview.png)
+![alt text](https://i.ibb.co/NrwjQGL/Big-Sur-Flat-preview.png)
